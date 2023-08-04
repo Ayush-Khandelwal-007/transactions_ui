@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Pre Requisit
+
+First clone and setup [Backend](https://github.com/Ayush-Khandelwal-007/transaction) for the application in you local machine to listen at port 8080.
 
 ## Getting Started
 
